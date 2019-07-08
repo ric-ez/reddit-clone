@@ -1,0 +1,7 @@
+{
+  "appId": "com.example.app",
+  "appName": "redditclone",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist"
+}
